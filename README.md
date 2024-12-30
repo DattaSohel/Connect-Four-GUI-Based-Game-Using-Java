@@ -41,3 +41,7 @@ c. Libraries Used: Java Swing for GUI components.
 5. Test the Game: Ensure all features work as intended and fix any bugs.
 
 
+<h3><b>Conclusion</b></h3>
+<br>
+The Connect 4 game project will provide an engaging way for users to enjoy this classic game digitally while enhancing programming skills in Java. By following the outlined objectives and implementation steps, developers can create a fully functional Connect 4 game that is both fun and interactive.
+
