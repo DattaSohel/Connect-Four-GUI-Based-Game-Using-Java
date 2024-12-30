@@ -32,7 +32,7 @@ c. Libraries Used: Java Swing for GUI components.
 1. Set Up the Project: Create a new Java project in the chosen IDE.
 2. Design the Game Board: Use a 2D array to represent the grid and initialize it with empty values.
 3. Create GUI Components:
-                        a. Use JFrame for the main window.
+            <t>            a. Use JFrame for the main window.
                         b. Use JPanel to represent the game board.
                         c. Add buttons for each column where players can drop their discs.
 4. Implement Game LogicL
