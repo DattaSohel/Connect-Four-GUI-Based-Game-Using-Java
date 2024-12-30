@@ -6,7 +6,8 @@ The objective is to be the first to connect four of one's own discs in a row, ei
 
 This project aims to create a digital version of Connect 4 using Java, allowing players to enjoy the game on their computers.
 
-Objectives
+<h3><b></b>Objectives</h3></b>
+
 Develop an interactive and user-friendly Connect 4 game.
 Implement a graphical user interface (GUI) using Java Swing.
 Allow two players to compete against each other.
